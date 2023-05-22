@@ -10,11 +10,11 @@ I have more than 2500 hours of technical, free and extension courses in technolo
 
 E-commerce Specialist
 
-## My timeline with technology
+## My timeline with technology 📅
 
 ### 2015 
 
-I started my career with hardware and software serving friends and family while studying programming languages, networking, and overclocking.
+I started my career with hardware working in a garage of a rented house, fixing computers and notebooks while studying programming languages, networks and overclocking.
 
 ### 2020 - 2023
 
@@ -36,7 +36,7 @@ At this moment, following a new journey with a happy heart, being able to apprec
 [![Ubuntu TLS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 
-## Skills
+## Languages
 
 [![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -44,9 +44,10 @@ At this moment, following a new journey with a happy heart, being able to apprec
 
 ## Favorite Frameworks
 
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![React Native|Mobile](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![JS|Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 
 
 ## Favorite IDEs
